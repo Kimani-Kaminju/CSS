@@ -1,0 +1,44 @@
+body{   
+    background-color: gray;
+}
+
+h1{
+    color: green;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    letter-spacing: 20px;
+    word-spacing: 10 px;
+    text-decoration: underline;
+}
+div{
+    /* border: solid black 5px; */
+    border-top: solid black 5px;
+    border-right: orange double 5px;
+    border-bottom: 5px dotted blue;
+    border-left: groove yellow 5px;
+
+    /* margin */
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    /* padding */
+
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    color: green;
+    border: solid white ;
+    border-radius: 10px;
+}
