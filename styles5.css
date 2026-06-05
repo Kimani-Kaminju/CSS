@@ -1,39 +1,49 @@
-body{
+body {
     background-color: grey;
 }
 
-#black{
-    background-color: black;
-    height: 80px;
-    width: 200px;
-    
+
+center {
+    position: relative;
+    width: 20cm;
+    margin: 0 auto;
 }
-.white{
+
+#black {
+    background-color: black;
+    height: 60px;
+    width: 20cm;
+}
+
+.white {
     background-color: white;
     height: 10px;
-    width: 200px;
-    
-    
-}
-#Shield{
-    height: 50px;
-    width: 200px;
+    width: 20cm;
+    margin: 0px;
 }
 
-
-
-
-#red{
+#red {
     background-color: red;
     height: 80px;
-    width: 200px;
-  
-
-
+    width: 20cm;
 }
-#green{
+
+#green {
     background-color: green;
     height: 80px;
-    width: 200px;
+    width: 20cm;
+}
 
+#Shield {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+
+#Shield img {
+    height: 150px;
+    width: auto;
+    display: block;
 }
