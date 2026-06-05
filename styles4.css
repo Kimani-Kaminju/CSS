@@ -1,0 +1,29 @@
+body{
+    margin-top: 200px;
+    
+}
+.black{
+    
+    background-color: black;
+    color: black;
+    height: 100px;
+    width: 300px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.red{
+    background-color: red;
+    color: red;
+    height: 100px;
+    width: 300px;
+    margin-top: 0px;
+   
+
+}
+.gold{
+    background-color: goldenrod;
+    color: goldenrod;
+    height: 100px;
+    width: 300px;
+    margin-top: 0px;
+}

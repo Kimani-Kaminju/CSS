@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+}
+
+#black{
+    background-color: black;
+    height: 80px;
+    width: 200px;
+    
+}
+.white{
+    background-color: white;
+    height: 10px;
+    width: 200px;
+    
+    
+}
+#Shield{
+    height: 50px;
+    width: 200px;
+}
+
+
+
+
+#red{
+    background-color: red;
+    height: 80px;
+    width: 200px;
+  
+
+
+}
+#green{
+    background-color: green;
+    height: 80px;
+    width: 200px;
+
+}
